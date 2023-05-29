@@ -1,0 +1,17 @@
+C:\Users\klara\source\repos\scientificCalculator\scientificCalculator\bin\Debug\net6.0-windows\scientificCalculator.exe
+C:\Users\klara\source\repos\scientificCalculator\scientificCalculator\bin\Debug\net6.0-windows\scientificCalculator.deps.json
+C:\Users\klara\source\repos\scientificCalculator\scientificCalculator\bin\Debug\net6.0-windows\scientificCalculator.runtimeconfig.json
+C:\Users\klara\source\repos\scientificCalculator\scientificCalculator\bin\Debug\net6.0-windows\scientificCalculator.dll
+C:\Users\klara\source\repos\scientificCalculator\scientificCalculator\bin\Debug\net6.0-windows\scientificCalculator.pdb
+C:\Users\klara\source\repos\scientificCalculator\scientificCalculator\obj\Debug\net6.0-windows\scientificCalculator.csproj.AssemblyReference.cache
+C:\Users\klara\source\repos\scientificCalculator\scientificCalculator\obj\Debug\net6.0-windows\scientificCalculator.Form1.resources
+C:\Users\klara\source\repos\scientificCalculator\scientificCalculator\obj\Debug\net6.0-windows\scientificCalculator.csproj.GenerateResource.cache
+C:\Users\klara\source\repos\scientificCalculator\scientificCalculator\obj\Debug\net6.0-windows\scientificCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klara\source\repos\scientificCalculator\scientificCalculator\obj\Debug\net6.0-windows\scientificCalculator.AssemblyInfoInputs.cache
+C:\Users\klara\source\repos\scientificCalculator\scientificCalculator\obj\Debug\net6.0-windows\scientificCalculator.AssemblyInfo.cs
+C:\Users\klara\source\repos\scientificCalculator\scientificCalculator\obj\Debug\net6.0-windows\scientificCalculator.csproj.CoreCompileInputs.cache
+C:\Users\klara\source\repos\scientificCalculator\scientificCalculator\obj\Debug\net6.0-windows\scientificCalculator.dll
+C:\Users\klara\source\repos\scientificCalculator\scientificCalculator\obj\Debug\net6.0-windows\refint\scientificCalculator.dll
+C:\Users\klara\source\repos\scientificCalculator\scientificCalculator\obj\Debug\net6.0-windows\scientificCalculator.pdb
+C:\Users\klara\source\repos\scientificCalculator\scientificCalculator\obj\Debug\net6.0-windows\scientificCalculator.genruntimeconfig.cache
+C:\Users\klara\source\repos\scientificCalculator\scientificCalculator\obj\Debug\net6.0-windows\ref\scientificCalculator.dll
